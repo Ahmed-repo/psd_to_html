@@ -33,3 +33,11 @@ nav {
 footer {
   color: blueviolet;
 }
+.video-player {
+  max-height: 750px;
+  position: relative;
+  overflow: hidden;
+}
+.video {
+  width: 50%;
+}
